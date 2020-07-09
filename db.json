@@ -1,0 +1,103 @@
+{
+  "foods": [
+    {
+      "id": 3,
+      "name": "plat fruis de mer cc",
+      "picture": "https://img-3.journaldesfemmes.fr/OG0jOvNryP2PsbqxvrIeUFY_1IY=/750x/smart/0976081f645047ccb9c3244e81111c52/recipe-jdf/10032757.jpg",
+      "price": "3000",
+      "type": "p",
+      "qte": 1,
+      "etat": true,
+      "usermail": "none"
+    },
+    {
+      "id": 5,
+      "name": "Pizza Margherita",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+      "price": 5,
+      "type": "pizza",
+      "qte": 1,
+      "etat": true,
+      "usermail": "none"
+    },
+    {
+      "id": 6,
+      "name": "Pizza Paperonni",
+      "picture": "https://media.gettyimages.com/photos/cheesy-pepperoni-pizza-picture-id938742222?s=2048x2048",
+      "price": 8,
+      "type": "pizza",
+      "qte": 1,
+      "etat": false,
+      "usermail": "none"
+    },
+    {
+      "id": 6,
+      "name": "hamburger",
+      "picture": "https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/9121/fast_food_flickr_6319155216_0463fda84a_b.jpg",
+      "price": 8,
+      "type": "fastfood",
+      "qte": 1,
+      "etat": false,
+      "usermail": "none"
+    },
+    {
+      "name": "d;kdkd",
+      "price": "",
+      "type": "c;",
+      "picture": "",
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "id": 3,
+      "name": "plat fruis de mer cc",
+      "picture": "https://img-3.journaldesfemmes.fr/OG0jOvNryP2PsbqxvrIeUFY_1IY=/750x/smart/0976081f645047ccb9c3244e81111c52/recipe-jdf/10032757.jpg",
+      "price": "3000",
+      "type": "plat ",
+      "qte": 1,
+      "etat": true,
+      "usermail": "none"
+    },
+    {
+      "id": 6,
+      "name": "Pizza Paperonni",
+      "picture": "https://media.gettyimages.com/photos/cheesy-pepperoni-pizza-picture-id938742222?s=2048x2048",
+      "price": 8,
+      "type": "pizza",
+      "qte": 1,
+      "etat": false,
+      "usermail": "none"
+    }
+  ],
+  "users": [
+    {
+      "email": "gmohieddinne@gmail.com",
+      "password": "1234",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "mohieddinne@gmail.com",
+      "password": "9",
+      "role": "user",
+      "first_name": "mo",
+      "last_name": ",,",
+      "id": 2
+    },
+    {
+      "email": "mohieddinne@gmail.com",
+      "password": "4",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "mohieddinne@gmail.com",
+      "password": "12",
+      "role": "user",
+      "first_name": "mo",
+      "last_name": "ùmd",
+      "id": 4
+    }
+  ]
+}

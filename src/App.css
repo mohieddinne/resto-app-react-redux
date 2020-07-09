@@ -1,0 +1,16 @@
+.cardcontainer{
+  margin: 1cm;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+background-image: url("https://i.ytimg.com/vi/h2zkV-l_TbY/maxresdefault.jpg");
+background-size: cover;
+}
+
+
+.editmodalcontainer{
+  display: flex;
+  background-color: red;
+  flex-direction: row ;
+
+}
